@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17607252229",
+    "project_id": "mandman-28915",
+    "storage_bucket": "mandman-28915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17607252229:android:9e9727872b9004854dff6c",
+        "android_client_info": {
+          "package_name": "com.mtc.mandman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17607252229-53gbqjfd5mdvngd80g9r6jtl1jnamifs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtc.mandman",
+            "certificate_hash": "28f64d0cbe642db71a3a3291bf0d27a75b5c68db"
+          }
+        },
+        {
+          "client_id": "17607252229-9svat81j9oc28s56rjc51im3qehariki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrx6QaDX_JOPKnYpxZnas9csfPlytGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17607252229-9svat81j9oc28s56rjc51im3qehariki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
